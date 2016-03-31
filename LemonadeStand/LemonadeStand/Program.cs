@@ -10,7 +10,11 @@ namespace LemonadeStand
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is the start of my Lemonade Stand");
+           GamePlay gamePlay = new GamePlay();
+            Console.ReadLine();
+
+
+
         }
     }
 }
